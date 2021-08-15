@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @larsfor
 - 👀 I’m interested in personal finance, exercise and technology,
-- 🌱 I’m currently learning Ruby and Rails to create my own homepage to expand everyone's knowledge about personal finance.
+- 🌱 I’m currently learning Ruby and Ruby on Rails through The Odin Project. 
+     My current project is to be able to create my own homepage dedicated to teaching personal finance.
 - 💞️ I’m not currently looking to collaborate. 
 - 📫 How to reach me - email: lars.forse@gmail.com.
 
